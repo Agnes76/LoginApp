@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LOGIN.API\LOGIN.Models\bin\Debug\net5.0\LOGIN.Models.deps.json
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LOGIN.API\LOGIN.Models\bin\Debug\net5.0\LOGIN.Models.dll
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LOGIN.API\LOGIN.Models\bin\Debug\net5.0\ref\LOGIN.Models.dll
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LOGIN.API\LOGIN.Models\bin\Debug\net5.0\LOGIN.Models.pdb
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LOGIN.API\LOGIN.Models\obj\Debug\net5.0\LOGIN.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LOGIN.API\LOGIN.Models\obj\Debug\net5.0\LOGIN.Models.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LOGIN.API\LOGIN.Models\obj\Debug\net5.0\LOGIN.Models.AssemblyInfo.cs
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LOGIN.API\LOGIN.Models\obj\Debug\net5.0\LOGIN.Models.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LOGIN.API\LOGIN.Models\obj\Debug\net5.0\LOGIN.Models.dll
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LOGIN.API\LOGIN.Models\obj\Debug\net5.0\ref\LOGIN.Models.dll
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LOGIN.API\LOGIN.Models\obj\Debug\net5.0\LOGIN.Models.pdb
